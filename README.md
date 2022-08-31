@@ -16,3 +16,10 @@ Para a contagem de filmes que o planeta apareceu consumi uma api do star wars ht
 - Docker
 
 Primeira api utilizando o MongoDB, então utilizei a documentação do mongodb e acessei alguns fóruns para tirar duvidas.
+
+- Create
+- Read all
+- Read ID
+- Delete ID
+
+- *Read Name (Não consegui desenvolver até o momento)
